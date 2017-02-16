@@ -24,6 +24,8 @@
 
 # Mongo Explorer plugin:
 .idea/mongoSettings.xml
+.idea/
+.vscode/
 
 ## File-based project format:
 *.iws
@@ -52,6 +54,7 @@ fabric.properties
 # modules.xml
 # .idea/misc.xml
 # *.ipr
-/node_modules
+node_modules/
+
 
 # End of https://www.gitignore.io/api/webstorm
